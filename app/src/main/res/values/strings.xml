@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nearest ATM</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="cities_array">
+        <item>Киев 50.4501 30.5234</item>
+        <item>Одесса 46.482526 30.7233095</item>
+        <item>Днепропетровск 48.464717 35.046183</item>
+        <item>Житомир 50.25465 28.6586669</item>
+        <item>Львов 49.839683 24.029717</item>
+        <item>Харьков 49.9935 36.230383</item>
+        <item>Херсон 46.635417 32.616867</item>
+        <item>Полтава 49.588267 34.5514169</item>
+        <item>Бровары 50.511083 30.7909</item>
+        <item>Черкассы 49.444433 32.059767</item>
+    </string-array>
+</resources>
